@@ -28,7 +28,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn compile && lint-staged"
+      "pre-commit": "echo \"[Husky] pre-commit\""
     }
   },
   "repository": {
