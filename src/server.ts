@@ -1,3 +1,4 @@
-export function name(): string {
+function nameHola(): string {
   return "hola";
 }
+nameHola();
