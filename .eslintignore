@@ -1,6 +1,5 @@
 node_modules
 *.test.ts
 *.test.tsx
-dist
 jest.config.js
-babel.config.js
+scripts/*
